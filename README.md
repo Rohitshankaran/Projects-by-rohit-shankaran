@@ -1,1 +1,1 @@
-I just made a powerbi dashboard based on amazon titles data.
+These are the projects i made.
